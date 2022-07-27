@@ -1,0 +1,9 @@
+C:\Users\Christopher\Desktop\AnalisePeça\AnalisePeça\bin\Debug\AnalisePeça.exe.config
+C:\Users\Christopher\Desktop\AnalisePeça\AnalisePeça\bin\Debug\AnalisePeça.exe
+C:\Users\Christopher\Desktop\AnalisePeça\AnalisePeça\bin\Debug\AnalisePeça.pdb
+C:\Users\Christopher\Desktop\AnalisePeça\AnalisePeça\obj\Debug\AnalisePeça.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Desktop\AnalisePeça\AnalisePeça\obj\Debug\AnalisePeça.Form1.resources
+C:\Users\Christopher\Desktop\AnalisePeça\AnalisePeça\obj\Debug\AnalisePeça.Properties.Resources.resources
+C:\Users\Christopher\Desktop\AnalisePeça\AnalisePeça\obj\Debug\AnalisePeça.csproj.GenerateResource.Cache
+C:\Users\Christopher\Desktop\AnalisePeça\AnalisePeça\obj\Debug\AnalisePeça.exe
+C:\Users\Christopher\Desktop\AnalisePeça\AnalisePeça\obj\Debug\AnalisePeça.pdb
